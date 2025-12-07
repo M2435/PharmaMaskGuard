@@ -1,0 +1,4 @@
+venv/
+MaskFaceDataset/
+__pycache__/
+*.h5
