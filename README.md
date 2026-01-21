@@ -40,7 +40,7 @@ PharmaMaskGuard/
 ## Installation and Setup
 
 1. Clone the repository:
-   git clone https://github.com/YourUsername/PharmaMaskGuard.git
+   git clone https://github.com/M2435/PharmaMaskGuard.git
    cd PharmaMaskGuard
 
 2. Create a Virtual Environment (Recommended):
